@@ -1,0 +1,10 @@
+{
+  "name": "ccb-sandbox",
+  "version": "1.0.0",
+  "description": "Sandboxed command execution using Linux namespaces (unshare)",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "sandbox"],
+  "license": "MIT"
+}
